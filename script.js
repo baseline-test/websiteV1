@@ -5,7 +5,7 @@
    (The README explains exactly how to get this URL.)
    ================================================================= */
 
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwEmIPfjqnSURDu00CDSF0mJ4SdOmBhegvIjokvBgbCOS5mudVlst24-T8E9voMnOe4vQ/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwtUML_rxImsq7l5FIAz61TlAoLxP9L6mirxUklduY17-EjViNG289K2ZxWe0AiEYLe/exec";
 
 /* ----------------------------------------------------------------- */
 
